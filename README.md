@@ -13,5 +13,5 @@ A simple responsive web page layout built with HTML and CSS.
 - `index.html` – HTML structure
 - `style.css` – CSS styles for layout and design
 
-[View on GitHub Pages](https://.github.io/HTML_CSS_Lexicon/)
+[View on GitHub Pages](https://mashaborodkina.github.io/HTML_CSS_Lexicon/)
 
